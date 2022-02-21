@@ -1,4 +1,4 @@
-# 대출 위험도 예측 모델 개발 (Loan Repayment Prediction)
+# 대출 위험도 예측 모델 개발 (Loan Repayment Prediction Modeling)
 
 ## 프로젝트 배경
 - Kaggle Competition
