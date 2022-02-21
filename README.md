@@ -1,5 +1,9 @@
 # 대출 위험도 예측 모델 개발 (Loan Repayment Prediction Modeling)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38115693/154956750-361e0ffd-640f-4a76-8c0f-c70dfdea2846.png">
+</p>
+  
 ## 프로젝트 배경
 - 은행의 입장에서 대출은 주요한 이익을 내는 상품
 - 은행 대출 신청자의 대출 상환에 대한 연체 가능성 여부에 대한 예측이 가능하다면, 은행은 누구에게 대출을 승인할지 잘 선택 할 수 있음
