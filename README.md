@@ -20,8 +20,15 @@
   - 최근 2년 동안 90일 이상 연체한 적이 있는지 여부
   - 값: 1 (연체한 적 있음), 0 (연체한 적 없음)
 
+## 모델링
+- DecisionTree로 시작하여 기본 틀/모델을 잡고, 다른 분류 모델들 사용해 가며 성능 테스트
+- KNN, SVM, RandomForest, GradientBoosting, XGBoost 사용하여 모델링
+- 하이퍼파라미터 튜닝
+- GridSearch
+
 ## 모델링 평가 지표
 - roc_auc 점수
 
 ## 프로젝트 결과
-- **auc score: 0.8975110204309532**
+- **accuracy: 0.9464388400558613**
+- **roc auc score: 0.8975110204309532**
