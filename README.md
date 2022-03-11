@@ -1,4 +1,4 @@
-# 대출 위험도 예측 모델 개발 (Loan Repayment Prediction Modeling)
+# 대출 위험도/상환 예측 모델 개발 (Loan Repayment Prediction Modeling)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38115693/154956750-361e0ffd-640f-4a76-8c0f-c70dfdea2846.png">
@@ -14,9 +14,6 @@
 - 실제 은행/금융 데이터를 사용하여 **대출을 받으려는 사람이 상환을 할 수 있을지 없을지를 예측**
 - 최종 모델은 **일정 기간(2년) 내에 채무 불이행 할지/아닐지 여부**를 출력
 
-## 프로젝트 결과
-- **auc score: 0.8975110204309532**
-
 ## 데이터 설명
 - Kaggle 대회에서 제공된 실제 금융 데이터
 - 타겟 변수 : SeriousDlqin2yrs
@@ -25,3 +22,6 @@
 
 ## 모델링 평가 지표
 - roc_auc 점수
+
+## 프로젝트 결과
+- **auc score: 0.8975110204309532**
